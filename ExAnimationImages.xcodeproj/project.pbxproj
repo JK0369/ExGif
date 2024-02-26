@@ -16,6 +16,7 @@
 		4AD94E252B8CE0E50026423E /* ExAnimationImagesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD94E242B8CE0E50026423E /* ExAnimationImagesTests.swift */; };
 		4AD94E2F2B8CE0E50026423E /* ExAnimationImagesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD94E2E2B8CE0E50026423E /* ExAnimationImagesUITests.swift */; };
 		4AD94E312B8CE0E50026423E /* ExAnimationImagesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD94E302B8CE0E50026423E /* ExAnimationImagesUITestsLaunchTests.swift */; };
+		4AD94E3E2B8CE6370026423E /* sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4AD94E3D2B8CE6370026423E /* sample.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4AD94E2A2B8CE0E50026423E /* ExAnimationImagesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExAnimationImagesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AD94E2E2B8CE0E50026423E /* ExAnimationImagesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExAnimationImagesUITests.swift; sourceTree = "<group>"; };
 		4AD94E302B8CE0E50026423E /* ExAnimationImagesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExAnimationImagesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4AD94E3D2B8CE6370026423E /* sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sample.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				4AD94E0D2B8CE0E40026423E /* AppDelegate.swift */,
+				4AD94E3D2B8CE6370026423E /* sample.gif */,
 				4AD94E0F2B8CE0E40026423E /* SceneDelegate.swift */,
 				4AD94E112B8CE0E40026423E /* ViewController.swift */,
 				4AD94E132B8CE0E40026423E /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AD94E3E2B8CE6370026423E /* sample.gif in Resources */,
 				4AD94E1A2B8CE0E50026423E /* LaunchScreen.storyboard in Resources */,
 				4AD94E172B8CE0E50026423E /* Assets.xcassets in Resources */,
 				4AD94E152B8CE0E40026423E /* Main.storyboard in Resources */,
